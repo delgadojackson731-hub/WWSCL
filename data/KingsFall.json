@@ -3,22 +3,16 @@
     "name": "KingsFall",
     "author": "AP-Marsfr",
     "creators": ["AP-Marsfr"],
-    "verifier": "AP-Marsfr",
-    "verification": "https://youtu.be/LFWyE6vaVL4",
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/-uQnJ7qZo5E?si=5o57SlFMaxSaJFFV",
     "percentToQualify": 100,
     "password": "Rake/240/No RT",
     "records": [
-                                                    {
-                "user": "AstroGuy",
-            "link": "https://www.youtube.com/watch?v=FZ8IDpZBe34",
-            "hz": 240,
-            "percent": 100
-        },
-                        {
-                "user": "Squeeg",
-            "link": "https://www.youtube.com/watch?v=KwsZK4YTn3k",
-            "hz": 240,
-            "percent": 100 
-                                                    }
+    {
+    "user": "Squeeg",
+    "link": "https://www.youtube.com/watch?v=KwsZK4YTn3k",
+    "hz": 240,
+    "percent": 100 
+    }
     ]
 }
