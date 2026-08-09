@@ -9,17 +9,5 @@
     "password": "Rake/CBF/No RT",
     "description": "Canela demon, verified by Squeeg in 18-20K attempts",
     "records": [
-    {
-                "user": "AstroGuy",
-            "link": "https://www.youtube.com/watch?v=FZ8IDpZBe34",
-            "hz": 240,
-            "percent": 100
-    },
-        {
-                "user": "Radiant",
-            "link": "https://www.youtube.com/watch?v=FZ8IDpZBe34",
-            "hz": 240,
-            "percent": 100
-    }
     ]
 }
