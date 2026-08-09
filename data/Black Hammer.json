@@ -13,14 +13,12 @@
         "link": "https://discord.com/channels/1420111313220403444/1500072044518309908/1500072044518309908",
             "hz": "CBF",
             "percent": 100
-       
-       
        },
-                                                    {
-                "user": "AstroGuy",
-            "link": "https://www.youtube.com/watch?v=FZ8IDpZBe34",
-            "hz": 240,
-            "percent": 100
-                                                    }
+       {
+    "user": "Delgado_Yeet_404",
+    "link": "https://youtu.be/fp_YKEHRA4k?si=OJwwyG0tcW5UTou6",
+    "hz": 240,
+    "percent": 100
+    }
     ]
 }
