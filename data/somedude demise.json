@@ -13,31 +13,6 @@
             "link": "https://www.youtube.com/watch?v=nJuJRU0aPts",
             "percent": 100,
             "hz": 240
-        
-        },
-                                                                    {
-                "user": "AP-Marsfr",
-            "link": "https://www.youtube.com/watch?v=eUQZcXrciRA",
-            "hz": 240,
-            "percent": 100
-        },
-                                                    {
-                "user": "Draggeye",
-            "link": "https://www.youtube.com/watch?v=FZ8IDpZBe34",
-            "hz": 240,
-            "percent": 100
-         },
-                    {
-                "user": "Radiant",
-            "link": "https://youtu.be/V0Iw3vdV9is",
-            "hz": 240,
-            "percent": 100
-                                                     },
-                                {
-                "user": "AstroGuy",
-            "link": "https://youtu.be/5Mo5-HpPfHo",
-            "hz": 60,
-            "percent": 100
-                    }
+        }
     ]
 }
