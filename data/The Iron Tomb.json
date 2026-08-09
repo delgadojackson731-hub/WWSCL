@@ -3,22 +3,16 @@
     "name": "The Iron Tomb",
     "author": "Squeeg",
     "creators": [],
-    "verifier": "AP-Marsfr",
-    "verification": "https://www.youtube.com/watch?v=eUQZcXrciRA",
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/y8lt50j1uzs?si=X0_7j6kvx3g1Lx71",
     "percentToQualify": "100",
     "password": "Rake/CBF/No RT",
     "records": [
-                        {
-        "user": "AstroGuy",
-        "link": "https://youtu.be/pyELcqCcw9g?si=OrRj7aTemzSH_WqR",
-            "hz": "CBF",
-            "percent": 100
-                      },
-                        {
-                "user": "Squeeg",
-            "link": "https://www.youtube.com/watch?v=KwsZK4YTn3k",
-            "hz": 240,
-            "percent": 100 
-                                                    }
+    {
+    "user": "Squeeg",
+    "link": "https://www.youtube.com/watch?v=KwsZK4YTn3k",
+    "hz": 240,
+    "percent": 100 
+    }
     ]
 }
