@@ -3,28 +3,22 @@
     "name": "xaviersobased",
     "author": "aelzfr",
     "creators": [],
-    "verifier": "AstroGuy",
-    "verification": "https://www.youtube.com/watch?v=rIdnOBObBho",
+    "verifier": "justanunknown",
+    "verification": "https://www.youtube.com/watch?v=TPoNPcxBtiI",
     "percentToQualify": "100",
     "password": "Altjitter/Ludwig/93FPS",
     "records": [
         {
-            "user": "justanunknown",
-            "link": " https://www.youtube.com/watch?v=TPoNPcxBtiI",
-            "hz": "60",
-            "percent": 100
+        "user": "Squeeg",
+        "link": "https://youtube.com/live/qsULRwDB7vU",
+        "percent": 100,
+        "hz": 240
         },
-                 {
-            "user": "Squeeg",
-            "link": "https://youtube.com/live/qsULRwDB7vU",
-            "percent": 100,
-            "hz": 240
-            },
         {
         "user": "shafikdabest",
         "link": "https://discord.com/channels/1420111313220403444/1420111314847666280/1507874429667905768",
         "hz": "CBF",
         "percent": 100
-                 }
+        }
     ]
 }
